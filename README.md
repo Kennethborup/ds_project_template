@@ -36,6 +36,7 @@ Here's an almost blank template to get started. You can use this template to cre
 
 The project does not include a `environment.yml` file for conda environment, or a `requirements.txt` file for pip environment, but you should highly consider using such files to keep track of your project dependencies. You can use the `conda env export > environment.yml` command to create a `environment.yml` file from your current conda environment, or the `pip freeze > requirements.txt` command to create a `requirements.txt` file from your current pip environment.
 
+**Note:** The `.gitkeep` files are used to keep the empty folders in the repository. You can delete them if you want to, they are not necessary.
 
 
 <!-- GETTING STARTED -->
